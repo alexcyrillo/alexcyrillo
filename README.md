@@ -1,11 +1,11 @@
-# Olá, eu sou Alex Cyrullo 👋
+# Olá, eu sou Alex Cyrillo 👋
 
 Sou um estudante de Engenharia da Computação.
 
 ### Tecnologias que utilizo:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,postgres,git,docker,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,django,flutter,html,css,javascript,postgres,git,docker" />
   </a>
 </p>
 
