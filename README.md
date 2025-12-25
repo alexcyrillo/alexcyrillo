@@ -1,7 +1,5 @@
 # Olá, eu sou Alex Cyrillo 👋
 
-Sou um estudante de Engenharia de Computação.
-
 ### Tecnologias que utilizo:
 <p align="left">
   <a href="https://skillicons.dev">
