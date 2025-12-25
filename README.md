@@ -1,4 +1,4 @@
-# Olá, eu sou Alex Cyrillo 👋
+# Olá, eu sou Alex
 
 ### Tecnologias que utilizo:
 <p align="left">
