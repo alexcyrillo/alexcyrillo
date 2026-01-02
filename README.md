@@ -12,7 +12,6 @@
 
 ### Meus Principais Projetos
 - **Sistema Peixe Babel**: Um app em Django e Flutter para aprendizado de idiomas com flashcards. [Repositório](URL_DO_REPO)
-- **Projeto de Visualização**: Trabalho acadêmico sobre... [Repositório](URL_DO_REPO)
 
 - ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcyrillo/)
