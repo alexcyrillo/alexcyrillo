@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcyrillo&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus Principais Projetos
-- **Sistema Peixe Babel**: Um app em Django e Flutter para aprendizado de idiomas com flashcards.[Repositório](https://github.com/alexcyrillo/peixe-babel)
+- [**Peixe Babel**](https://github.com/alexcyrillo/peixe-babel) : Um app em Django e Flutter para aprendizado de idiomas com flashcards.
 
 - ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcyrillo/)
