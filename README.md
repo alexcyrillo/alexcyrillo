@@ -7,9 +7,6 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcyrillo&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcyrillo&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Meus Principais Projetos
 - [**Peixe Babel**](https://github.com/alexcyrillo/peixe-babel) : Um app em Django e Flutter para aprendizado de idiomas com flashcards e chat com IA utilizando palavras conhecidas pelo usuário.
 - [**App para praticar idioma**](https://github.com/alexcyrillo/language-practice-app) : Ferramenta de revisão de vocabulário para estudantes de idiomas. Com integração com o Anki a partir do add-on Anki Connect.
